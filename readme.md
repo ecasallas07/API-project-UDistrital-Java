@@ -38,7 +38,7 @@ Las tecnologías que se usaron en el proyecto fueron las siguientes:
 
 ## API REST- CONSULTORIO
 *El modelo de datos se realizó, bajo el modelo entidad relación, el cual constituye un flujo de datos estructurado y basado en la integridad referencial de las entidades.*
-![Diagrama](ModelDatabase.png)
+![Diagrama](ModelDataBase.png)
 
 
 #### RUTAS API
