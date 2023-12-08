@@ -90,11 +90,11 @@ Para consumir la API correctamente tener en cuenta las rutas determinadas en la 
 -----
 #### *Cita*
 ```http
-  GET      /api/cita   
-  GET      /api/cita/{data}
-  POST     /api/cita/{id}
-  PUT      /api/cita/{id}
-  DELETE   /api/cita/{id}
+  GET      /api/citas   
+  GET      /api/citas/{data}
+  POST     /api/citas/{id}
+  PUT      /api/citas/{id}
+  DELETE   /api/citas/{id}
 ```
 ##### **body**
 ```json
