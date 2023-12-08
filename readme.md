@@ -138,7 +138,7 @@ Para consumir la API correctamente tener en cuenta las rutas determinadas en la 
 
 ![Citas](pruebas-img/citas/puy_citas.png)
 
--delete cita
+- delete cita
 ![Citas](pruebas-img/citas/delete_citas.png)
 
 
